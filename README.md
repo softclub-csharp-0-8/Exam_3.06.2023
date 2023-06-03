@@ -30,7 +30,6 @@ erDiagram
 ## Functional requirements for the API:
 
 1. Create a database with shown diagram.
-2. Upload multiple images for a quote.
 3. Edit/change a quote's author, quote text, or category.
 4. Add Quote Image by quote id
 5. Delete a quote by ID.
